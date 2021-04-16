@@ -1,4 +1,6 @@
 
+This version is based on [fra589/grbl-Mega-5X](https://github.com/fra589/grbl-Mega-5X) with eventual modifications to fit better my project of building a 6-DOF robot arm.
+
 ***
 
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. This version of Grbl runs on an Arduino Mega2560 only.
