@@ -1,4 +1,3 @@
-![GitHub Logo](https://github.com/fra589/grbl-Mega-5X/blob/edge/doc/images/Mega-5X-logo.svg)
 
 ***
 
@@ -10,7 +9,7 @@ It accepts standards-compliant g-code and has been tested with the output of sev
 
 Grbl includes full acceleration management with look ahead. That means the controller will look up to 24 motions into the future and plan its velocities ahead to deliver smooth acceleration and jerk-free cornering.
 
-* [Licensing](https://github.com/fra589/grbl-Mega-5X/blob/edge/COPYING): Grbl is free software, released under the GPLv3 license.
+* [Licensing](https://github.com/RCC-Automation/grbl-Mega-6X/blob/master/COPYING): Grbl is free software, released under the GPLv3 license.
 
 * For more information and help, check out our **[Wiki pages!](https://github.com/gnea/grbl/wiki)** If you find that the information is out-dated, please to help us keep it updated by editing it or notifying our community! Thanks!
 
