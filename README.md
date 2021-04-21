@@ -71,8 +71,4 @@ List of Supported G-Codes in Grbl v1.1:
   - Valid Non-Command Words: F, I, J, K, L, N, P, R, S, T, X, Y, Z, A, B, C
 ```
 
--------------
-Grbl-Mega-5X is an open-source project and fueled by the free-time of our intrepid administrators and altruistic users. If you'd like to donate, all proceeds will be used to help fund supporting hardware and testing equipment. Thank you!
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/pools/c/842hNSm2It)
 
